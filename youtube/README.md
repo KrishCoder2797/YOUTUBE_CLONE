@@ -1,16 +1,41 @@
-# youtube
 
-A new Flutter project.
+# 🎬 YouTube Clone App
 
-## Getting Started
+A feature-rich YouTube clone built with Flutter, providing a seamless video browsing and streaming experience. This app replicates core YouTube functionality, allowing users to watch videos, browse trending content, and manage subscriptions with a beautiful and responsive UI.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Feature       | Preview                    |
+|---------------|----------------------------|
+| Home Screen   | ![Home](assets\images\y1.jpg) |
+| Home Screen    | ![Home](assets\images\y2.jpg) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🌟 Features
+
+- **Video Playback**: Play videos with high-quality playback, complete with play, pause, and seek controls.
+
+
+- **Search Functionality**: Quickly search for videos, channels, and playlists.
+
+- **Channel Pages**: View channel pages, including videos and subscriber counts.
+
+- **User Subscriptions**: Manage subscribed channels and get easy access to the latest uploads.
+
+
+
+## 🚀 Technologies Used
+
+- **Flutter**: Cross-platform mobile app framework for consistent UI on Android and iOS.
+
+- **Dart**: The programming language used with Flutter.
+
+- **Video Player Package**: Efficient video playback capabilities within Flutter.
+
+- **HTTP Requests**: For fetching video data, trending lists, and search results.
+
+## 📖 API Integration
+
+This app is designed to work with a mock or real video streaming API to retrieve video data, search results, and channel information. You may need an API key or similar credentials if using real video APIs (e.g., YouTube Data API).
+
